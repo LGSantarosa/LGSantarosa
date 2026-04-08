@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="banner.jpg" alt="Banner" width="100%" style="border-radius: 10px;" />
+  <img src="774574.jpg" alt="Banner" width="100%" style="border-radius: 10px;" />
 
   # ⚡ Luiz Santarosa
 
@@ -20,7 +20,7 @@
 
 ```yaml
 name: Luiz Gustavo Santarosa
-role: Robotics & ROS2 Developer
+role: Robotics & University researcher
 education: BSc Information Systems — PUCPR
 location: Curitiba, PR — Brazil
 ```
@@ -56,15 +56,6 @@ location: Curitiba, PR — Brazil
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=C9D1D9" />
 </div>
 
 ---
