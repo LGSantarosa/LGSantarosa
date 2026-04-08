@@ -1,39 +1,40 @@
-<h3 title="hehehe"> Hey 👋, I'm Luiz!</h3>
+<div align="center">
+  <img src="774574.jpg" alt="Banner" width="100%" />
+</div>
 
-<a href="https://www.linkedin.com/in/luiz-santarosa/">
-  <img align="left" alt="Luiz's Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/luiz_santarosa/">
-  <img align="left" alt="Luiz's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<h3 align="center">Hey 👋, I'm Luiz!</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-santarosa/">
+    <img alt="Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/luiz_santarosa/">
+    <img alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</p>
 
+---
 
+🤖 **Robotics & ROS2 Developer**
 
-
-<br />
-<br />
-
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
- 
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+I'm a robotics enthusiast working with ROS2 to build intelligent systems — from autonomous navigation to sensor integration and custom robot architectures.
 
 **About Me!**
 
-- 👨🏽‍💻 Student in Bachelor's Degree in Information Systems - PUCPR
-- 🌱 I’m currently exploring Python. 
-- 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [Luizgustavo.santarosa@gmai.com](Luizgustavo.santarosa@gmai.com).
+- 🎓 Bachelor's in Information Systems — PUCPR
+- 🦾 Currently working with **ROS2** (nodes, topics, services, actions, launch files)
+- 🐍 Python is my main tool — from robot control to scripting and automation
+- 🌐 Background in web development (HTML, CSS, JS) — useful for dashboards and robot interfaces
+- 🔭 Interested in autonomous navigation, SLAM, computer vision and embedded systems
+- 💬 Ask me about ROS2, robotics, Python or anything tech — I love to help!
+- 📫 Reach me at [Luizgustavo.santarosa@gmail.com](mailto:Luizgustavo.santarosa@gmail.com)
 
-
-
-**Languages and Tools:**  
-
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
