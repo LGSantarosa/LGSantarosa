@@ -2,9 +2,9 @@
   
   <img src="774574.jpg" alt="Banner" width="100%" style="border-radius: 10px;" />
 
-  # ⚡ Luiz Santarosa
+  # Luiz Santarosa
 
-  **`Robotics Engineer | ROS2 Developer | Stand User`**
+  **`Robotics | Developer | Stand User`**
 
   [![Linkedin](https://img.shields.io/badge/-Luiz%20Santarosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-santarosa/)
   [![Instagram](https://img.shields.io/badge/-@luiz__santarosa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz_santarosa/)
@@ -34,11 +34,11 @@ location: Curitiba, PR — Brazil
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
-#### 🤖 Robotics & Core
+#### Core
 
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -48,7 +48,7 @@ location: Curitiba, PR — Brazil
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-#### 🌐 Web & Interfaces
+#### Web & Interfaces
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
