@@ -14,7 +14,7 @@
 
 ---
 
-### 🤖 About Me
+### About Me
 
 ```yaml
 name: Luiz Gustavo Santarosa
