@@ -1,40 +1,78 @@
 <div align="center">
-  <img src="774574.jpg" alt="Banner" width="100%" />
+  
+  <img src="banner.jpg" alt="Banner" width="100%" style="border-radius: 10px;" />
+
+  # ⚡ Luiz Santarosa
+
+  **`Robotics Engineer | ROS2 Developer | Stand User`**
+
+  [![Linkedin](https://img.shields.io/badge/-Luiz%20Santarosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-santarosa/)
+  [![Instagram](https://img.shields.io/badge/-@luiz__santarosa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz_santarosa/)
+  [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Luizgustavo.santarosa@gmail.com)
+
 </div>
-
-<h3 align="center">Hey 👋, I'm Luiz!</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/luiz-santarosa/">
-    <img alt="Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/luiz_santarosa/">
-    <img alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-</p>
 
 ---
 
-🤖 **Robotics & ROS2 Developer**
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
 
-I'm a robotics enthusiast working with ROS2 to build intelligent systems — from autonomous navigation to sensor integration and custom robot architectures.
+### 🤖 About Me
 
-**About Me!**
+```yaml
+name: Luiz Gustavo Santarosa
+role: Robotics & ROS2 Developer
+education: BSc Information Systems — PUCPR
+location: Curitiba, PR — Brazil
+```
 
-- 🎓 Bachelor's in Information Systems — PUCPR
-- 🦾 Currently working with **ROS2** (nodes, topics, services, actions, launch files)
-- 🐍 Python is my main tool — from robot control to scripting and automation
-- 🌐 Background in web development (HTML, CSS, JS) — useful for dashboards and robot interfaces
-- 🔭 Interested in autonomous navigation, SLAM, computer vision and embedded systems
-- 💬 Ask me about ROS2, robotics, Python or anything tech — I love to help!
-- 📫 Reach me at [Luizgustavo.santarosa@gmail.com](mailto:Luizgustavo.santarosa@gmail.com)
+- 🦾 Working daily with **ROS2** — nodes, topics, services, actions, launch files
+- 🐍 Python as my main weapon for robot control, scripting and automation
+- 🔭 Exploring **autonomous navigation, SLAM & computer vision**
+- 🌐 Web dev background — building dashboards and robot interfaces
+- 🧠 Always learning, always building
+- 💬 Ask me about **ROS2, robotics, Python** or anything tech!
 
-**Languages and Tools:**
+<br clear="right"/>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### 🤖 Robotics & Core
+
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+#### 🌐 Web & Interfaces
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=C9D1D9" />
+</div>
+
+---
+
+<div align="center">
+  
+  *"This is the path I chose. I don't regret it."*
+  
+  <img src="https://komarev.com/ghpvc/?username=SEU-USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
+
+</div>
